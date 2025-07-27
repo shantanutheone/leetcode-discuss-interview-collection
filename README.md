@@ -1,5 +1,10 @@
 # Interview Experiences
 
+## How to Use
+
+Each row links to a formatted `.md` file if available (see **Link** column). If only a number is shown, it's already formatted.
+Others are in progress and will be added soon.
+
 ## Google
 | Company | Level | Location | Result | Link | Status |
 |---------|-------|----------|--------|------|--------|
